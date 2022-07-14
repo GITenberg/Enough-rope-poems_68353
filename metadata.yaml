@@ -1,0 +1,53 @@
+_repo: Enough-rope-poems_68353
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parker, Dorothy
+    alias: Parker, Dorothy Rothschild
+    birthdate: 1893
+    deathdate: 1967
+    gutenberg_agent_id: '5625'
+    url: http://www.gutenberg.org/2009/agents/5625
+    wikipedia: https://en.wikipedia.org/wiki/Dorothy_Parker
+description: ''
+gutenberg_issued: '2022-06-20'
+identifiers:
+  gutenberg: '68353'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001376309
+pgterms:marc905: 20220609062818parker
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: United States :Boni & Liveright,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 20th century'
+- GITenberg
+tableOfContents: Threnody -- The small hours -- The false friends -- The trifler --
+  A very short song -- A well-worn story -- Convalescent -- The dark girl's rhyme
+  -- Epitaph -- Light of love -- Wail -- The satin dress -- Somebody's song -- Anecdote
+  -- Braggart -- Epitaph for a darling lady -- To a much too unfortunate lady -- Paths
+  -- Hearthside -- The new love -- Rainy night -- For a sad lady -- Recurrence --
+  Story of Mrs. W -- The dramatists -- August -- The white lady -- I know I have been
+  happiest -- Testament -- "I shall come back" -- Condolence -- The immortals -- A
+  portrait -- Portrait of an artist -- Chant for dark hours -- Unfortunate coincidence
+  -- Verse reporting late arrival at a conclusion -- Inventory -- Now at liberty --
+  Comment -- Plea -- Pattern -- De profundis -- They part -- Ballade of a great weariness
+  -- Résumé -- Renunciation -- Day-dreams -- The veteran -- Prophetic soul -- Verse
+  for a certain dog -- Folk tune -- Godspeed -- Song of perfect propriety -- Social
+  note -- One perfect rose -- Ballade at thirty-five -- The thin edge -- Spring song
+  -- Love song -- Indian summer -- Philosophy -- For an unknown lady -- The leal --
+  Finis -- Words of comfort to be scratched on a mirror -- Men -- News item -- Song
+  of one of the girls -- Lullaby -- Faut de mieux -- Roundel -- A certain lady --
+  Observation -- Symptom recital -- Fighting words -- Rondeau redoublé -- Autobiography
+  -- The choice -- Ballade of big plans -- General review of the sex situation --
+  Ubscription for the ceilign of a bedroom -- Pictures in the smoke -- Biographies
+  -- Nocturne -- Interview -- Song in a minor key -- Experience -- Neither bloody
+  nor bowed -- The burned child.
+title: 'Enough rope: poems'
+url: http://www.gutenberg.org/ebooks/68353
